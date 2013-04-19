@@ -1,8 +1,3 @@
 # Backbone-relational
 
-Backbone-relational provides one-to-one, one-to-many and many-to-one relations between models for [Backbone](https://github.com/documentcloud/backbone).
-
-Documentation: http://backbonerelational.org
-
-Backbone-relational is released under the [MIT license](https://github.com/PaulUithol/Backbone-relational/blob/master/LICENSE.txt).
-Contributors: https://github.com/PaulUithol/Backbone-relational/contributors
+Backbone relational fork with work on many to many relationships here https://github.com/hbt/tasktree/blob/knockout/app/web/assets/js/vendor/backbone/backbone-relational.js
